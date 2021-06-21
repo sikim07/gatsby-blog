@@ -1,12 +1,12 @@
 module.exports = {
-  title: `거북목 개발 뉴비`,
-  description: `Blog posted about ...`,
+  title: `제목`,
+  description: `Blog posted about ...(description)`,
   author: `skim88`,
   introduction: `트렌드에 관심이 많은 개발 뉴비 입니다.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://si-kim.github.io/gatsby-blog/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `https://github.com/SI-Kim`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -15,11 +15,11 @@ module.exports = {
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    disqusShortName: 'disqusShortName', // Your disqus-short-name. check disqus.com.
+    utterances: 'SI-Kim/gatsby-blog', // Your repository for archive comment
   },
   configs: {
-    countOfInitialPost: 10, // Config your initial count of post
+    countOfInitialPost: 1, // Config your initial count of post
   },
   sponsor: {
     buyMeACoffeeId: 'jbee',
