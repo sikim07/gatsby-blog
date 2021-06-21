@@ -88,4 +88,3 @@
     "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com/SI-Kim/gatsby-blog.git'"
   }
 }
-https: //github.com/SI-Kim/gatsby-blog.git
