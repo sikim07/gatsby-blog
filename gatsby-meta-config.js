@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `거북목 개발 뉴비`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  author: `skim88`,
+  introduction: `트렌드에 관심이 많은 개발 뉴비 입니다.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
