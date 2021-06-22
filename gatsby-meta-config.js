@@ -1,12 +1,12 @@
 module.exports = {
-  title: `제목`,
-  description: `Blog posted about ...(description)`,
-  author: `skim88`,
-  introduction: `트렌드에 관심이 많은 개발 뉴비 입니다.`,
+  title: `Jaden.io`,
+  description: `board for learned things, algorithms, to-do road maps`,
+  author: `Jaden`,
+  introduction: `Web developer growing every day`,
   siteUrl: `https://si-kim.github.io/gatsby-blog/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/SI-Kim`, // Your GitHub account
+    github: `https://github.com/SI-Kim/`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
